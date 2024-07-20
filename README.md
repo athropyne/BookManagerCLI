@@ -43,7 +43,7 @@
 
 
 _Пример вашей созданной команды:_\
-```python main.py my-chapter --my-command value1 value2```
+```python main.py my_chapter --my_command value1 value2```
 
 
 
